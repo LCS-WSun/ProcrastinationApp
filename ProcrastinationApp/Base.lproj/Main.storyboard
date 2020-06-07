@@ -181,10 +181,10 @@
             </objects>
             <point key="canvasLocation" x="2592.8000000000002" y="-1549.4752623688157"/>
         </scene>
-        <!--View Controller-->
+        <!--Chose Time Work View Controller-->
         <scene sceneID="RDq-lt-BdI">
             <objects>
-                <viewController id="pCK-bz-met" sceneMemberID="viewController">
+                <viewController id="pCK-bz-met" customClass="ChoseTimeWorkViewController" customModule="ProcrastinationApp" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="maJ-Uf-e5E">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
