@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		825FFD98248CACA400D5E006 /* ProcrastinationStopWatchScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 825FFD97248CACA400D5E006 /* ProcrastinationStopWatchScreen.swift */; };
 		825FFD9A248D937D00D5E006 /* ChoseTimeWork.swift in Sources */ = {isa = PBXBuildFile; fileRef = 825FFD99248D937C00D5E006 /* ChoseTimeWork.swift */; };
+		825FFD9C248D983300D5E006 /* WorkTimerStart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 825FFD9B248D983300D5E006 /* WorkTimerStart.swift */; };
 		82618907247C182D0035F48C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82618906247C182D0035F48C /* AppDelegate.swift */; };
 		82618909247C182D0035F48C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82618908247C182D0035F48C /* SceneDelegate.swift */; };
 		8261890B247C182D0035F48C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8261890A247C182D0035F48C /* ViewController.swift */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		825FFD97248CACA400D5E006 /* ProcrastinationStopWatchScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcrastinationStopWatchScreen.swift; sourceTree = "<group>"; };
 		825FFD99248D937C00D5E006 /* ChoseTimeWork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChoseTimeWork.swift; sourceTree = "<group>"; };
+		825FFD9B248D983300D5E006 /* WorkTimerStart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkTimerStart.swift; sourceTree = "<group>"; };
 		82618903247C182D0035F48C /* ProcrastinationApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProcrastinationApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		82618906247C182D0035F48C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		82618908247C182D0035F48C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				82618911247C18310035F48C /* LaunchScreen.storyboard */,
 				82618914247C18310035F48C /* Info.plist */,
 				825FFD99248D937C00D5E006 /* ChoseTimeWork.swift */,
+				825FFD9B248D983300D5E006 /* WorkTimerStart.swift */,
 			);
 			path = ProcrastinationApp;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				825FFD9A248D937D00D5E006 /* ChoseTimeWork.swift in Sources */,
+				825FFD9C248D983300D5E006 /* WorkTimerStart.swift in Sources */,
 				825FFD98248CACA400D5E006 /* ProcrastinationStopWatchScreen.swift in Sources */,
 				8261890B247C182D0035F48C /* ViewController.swift in Sources */,
 				82618907247C182D0035F48C /* AppDelegate.swift in Sources */,

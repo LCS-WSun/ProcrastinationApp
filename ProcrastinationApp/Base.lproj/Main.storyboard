@@ -422,10 +422,10 @@
             </objects>
             <point key="canvasLocation" x="4466" y="64"/>
         </scene>
-        <!--View Controller-->
+        <!--Work Timer Start View Controller-->
         <scene sceneID="Foc-qe-ht6">
             <objects>
-                <viewController id="t67-60-GN0" sceneMemberID="viewController">
+                <viewController id="t67-60-GN0" customClass="WorkTimerStartViewController" customModule="ProcrastinationApp" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="dZP-nX-KGH">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
